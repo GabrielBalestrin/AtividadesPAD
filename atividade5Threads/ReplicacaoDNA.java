@@ -4,7 +4,7 @@ import java.io.File;
 
 public class ReplicacaoDNA {
     public static void main(String[] args) {
-        String pasta = "G:\\Meu Drive\\Faculdade\\7ª fase\\Programação Alto Desempenho\\Atividade5\\arquivosDNA\\";
+        String pasta = "G:\\Meu Drive\\Faculdade\\7ª fase\\Programação Alto Desempenho\\Atividade5\\arquivosDNA\\";  // mudar caminho!
         String pastaSaida = pasta + "complementares\\";
 
         File dirSaida = new File(pastaSaida);
